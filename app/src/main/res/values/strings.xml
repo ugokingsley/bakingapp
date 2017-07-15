@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="title_activity_cake_recipe">CakeRecipeActivity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingredientlabel" translatable="true">Ingredients List</string>
+    <string name="steplabel" translatable="true">View Steps</string>
+    <string name="errorText" translatable="true">No internet Connection on device!</string>
+    <string name="pielabel" translatable="true">Pie</string>
+    <string name="cakelabel" translatable="true">Cake</string>
+    <string name="cakelistlabel" translatable="true">Cake Lists</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="retrival_error" translatable="true">No result Retrieved!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widgetErrorText" translatable="true">Error loading Data, Check internet Connection!</string>
+
+    <string name="listPreferencelabel" translatable="true">Choose Favourite Recipe</string>
+    <string name="listPreferencekey">pref_key</string>
+
+    <string name="nutella_pie_label" translatable="true">Nutella Pie</string>
+    <string name="Brownies_label" translatable="true">Brownies</string>
+    <string name="cheese_cake_label" translatable="true">Cheese Cake</string>
+    <string name="yello_cake_label" translatable="true">Yello Cake</string>
+
+    <string name="nutella_pie_key" translatable="true">N_p</string>
+    <string name="Brownies_key" translatable="true">B_c</string>
+    <string name="cheese_cake_key" translatable="true">C_c</string>
+    <string name="yello_cake_key" translatable="true">Y_c</string>
+
+</resources>

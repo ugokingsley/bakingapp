@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_cake_types_label">
+        <item>@string/nutella_pie_label</item>
+        <item>@string/Brownies_label</item>
+        <item>@string/yello_cake_label</item>
+        <item>@string/cheese_cake_label</item>
+    </array>
+
+    <array name="pref_cake_types_value">
+        <item>@string/nutella_pie_key</item>
+        <item>@string/Brownies_key</item>
+        <item>@string/yello_cake_key</item>
+        <item>@string/cheese_cake_key</item>
+    </array>
+</resources>
